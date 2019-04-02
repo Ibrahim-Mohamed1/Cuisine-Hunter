@@ -17,3 +17,5 @@ Hosted at: http://cuisine-hunter.surge.sh/
 3. To Start:
 
         npm start
+
+# Home Screen
