@@ -23,7 +23,7 @@ Hosted at: http://cuisine-hunter.surge.sh/
 
 # Home Screen Drop-Down Options List
 
-<img width="1440" alt="Screen Shot 2019-03-31 at 7 28 38 PM" src="https://user-images.githubusercontent.com/46691128/55376342-35411f80-54cd-11e9-8efe-b583f4234908.png">
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 29 34 PM" src="https://user-images.githubusercontent.com/46691128/55376756-088e0780-54cf-11e9-9fb8-11b0d9c3cab1.png">
 
 # Home Screen Search Results
 
