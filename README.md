@@ -1,4 +1,4 @@
-An app created with React.js to help find mountain bike events in the USA.
+An app created with React.js to help users find restuarants nearby serving desired cuisines.
 
 Hosted at: http://cuisine-hunter.surge.sh/
 
