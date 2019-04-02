@@ -17,6 +17,6 @@ or
 
         npm install
         
-        To Start:
+3. To Start:
 
         npm start
