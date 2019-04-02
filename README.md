@@ -10,7 +10,10 @@ Hosted at: http://cuisine-hunter.surge.sh/
 
 1. Clone the repo:
 
+
 https://github.com/Ibrahim-Mohamed1/Personal-React-Site-w-API.git
+
+
 Install dependencies:
 
 yarn
