@@ -27,3 +27,7 @@ Hosted at: http://cuisine-hunter.surge.sh/
 
 # Home Screen Search Results
 
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 30 16 PM" src="https://user-images.githubusercontent.com/46691128/55376796-37a47900-54cf-11e9-8a3c-b30d58948af0.png">
+
+# Suggest Page
+
