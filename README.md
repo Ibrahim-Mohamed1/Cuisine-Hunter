@@ -14,7 +14,7 @@ Hosted at: http://cuisine-hunter.surge.sh/
 
         yarn
         
-or
+        or
 
         npm install
         
