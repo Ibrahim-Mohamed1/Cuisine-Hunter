@@ -4,7 +4,7 @@ Hosted at: http://cuisine-hunter.surge.sh/
 
 # Cuisine Hunter
 
-# Getting Started
+## Getting Started
 
 1. Clone the repo:
 
