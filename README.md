@@ -20,3 +20,10 @@ Hosted at: http://cuisine-hunter.surge.sh/
 
 # Home Screen
 <img width="1440" alt="Screen Shot 2019-03-31 at 7 27 57 PM" src="https://user-images.githubusercontent.com/46691128/55375186-800c6880-54c8-11e9-9c7a-30379f3da8da.png">
+
+# Home Screen Drop-Down Options List
+
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 28 38 PM" src="https://user-images.githubusercontent.com/46691128/55376342-35411f80-54cd-11e9-8efe-b583f4234908.png">
+
+# Home Screen Search Results
+
