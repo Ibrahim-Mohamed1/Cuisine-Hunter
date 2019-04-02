@@ -19,3 +19,4 @@ Hosted at: http://cuisine-hunter.surge.sh/
         npm start
 
 # Home Screen
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 27 57 PM" src="https://user-images.githubusercontent.com/46691128/55375186-800c6880-54c8-11e9-9c7a-30379f3da8da.png">
