@@ -12,10 +12,6 @@ Hosted at: http://cuisine-hunter.surge.sh/
 
 2. Install dependencies:  
 
-        yarn
-        
-      or
-
         npm install
         
 3. To Start:
