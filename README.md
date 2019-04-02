@@ -6,7 +6,7 @@ Hosted at: http://cuisine-hunter.surge.sh/
 
 ## Getting Started
 
-1. Clone the repo:
+1. Clone the repo:  
 
     https://github.com/Ibrahim-Mohamed1/Personal-React-Site-w-API.git
 
