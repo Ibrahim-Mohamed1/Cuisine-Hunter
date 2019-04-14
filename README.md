@@ -1,69 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An app created with React.js to help users find restuarants nearby serving desired cuisines.
 
-## Available Scripts
+Hosted at: http://cuisine-hunter.surge.sh/
 
-In the project directory, you can run:
+# Cuisine Hunter
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone the repo:  
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+        https://github.com/Ibrahim-Mohamed1/Personal-React-Site-w-API-.git
 
-### `npm test`
+2. Install dependencies:  
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+        npm install
+        
+3. To Start:
 
-### `npm run build`
+        npm start
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Home Screen
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 27 57 PM" src="https://user-images.githubusercontent.com/46691128/55375186-800c6880-54c8-11e9-9c7a-30379f3da8da.png">
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+# Home Screen Drop-Down Options List
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 29 34 PM" src="https://user-images.githubusercontent.com/46691128/55376756-088e0780-54cf-11e9-9fb8-11b0d9c3cab1.png">
 
-### `npm run eject`
+# Home Screen Search Results
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 30 16 PM" src="https://user-images.githubusercontent.com/46691128/55376796-37a47900-54cf-11e9-8a3c-b30d58948af0.png">
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Suggest Page
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 28 10 PM" src="https://user-images.githubusercontent.com/46691128/55376864-910ca800-54cf-11e9-88cc-1671806f9319.png">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Contact Page
 
-## Learn More
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 28 24 PM" src="https://user-images.githubusercontent.com/46691128/55376889-b7324800-54cf-11e9-9459-01d9d4f3aae2.png">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Contact Page Thank You Page (After Form Submission)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="1440" alt="Screen Shot 2019-03-31 at 7 28 38 PM" src="https://user-images.githubusercontent.com/46691128/55376931-feb8d400-54cf-11e9-95fc-fdfea4bb195e.png">
 
-### Code Splitting
+# LinkedIn Profile
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Personal-React-Site-w-API-
+https://www.linkedin.com/in/ibrahim-mohamed-/
