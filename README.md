@@ -1,6 +1,6 @@
 An app created with React.js to help users find restuarants nearby serving desired cuisines.
 
-Hosted at: http://cuisine-hunter.surge.sh/
+Hosted at: http://cuisine-hunter.surge.sh/ 
 
 # Cuisine Hunter
 
